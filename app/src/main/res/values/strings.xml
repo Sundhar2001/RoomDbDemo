@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Employee Details</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="enter_your_email">enter your email</string>
+    <string name="login">login</string>
+    <string name="welcome_to_login">Welcome to Login</string>
+    <string name="employee_list">Employee List</string>
+    <string name="save">Save</string>
+</resources>
